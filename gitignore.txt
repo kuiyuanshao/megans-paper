@@ -1,0 +1,26 @@
+# Ignore data files
+*.csv
+*.rds
+*.RData
+*.xlsx
+*.pk
+
+
+# Ignore log files
+*.log
+*.json
+*.pth
+*.sl
+*.out
+
+# Ignore specific directories
+/data/
+/Output/
+/save/
+/.ipynb_checkpoints/
+/_pycache_/
+/.Rproj.user/
+
+# Ignore temporary files
+*.tmp
+*.bak
